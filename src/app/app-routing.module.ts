@@ -13,6 +13,10 @@ const routes: Routes = [
   },
 ];
 
+1
+2
+
+
 @NgModule({
   imports: [
     RouterModule.forRoot(routes, { preloadingStrategy: PreloadAllModules })
